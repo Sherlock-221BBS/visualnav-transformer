@@ -1,6 +1,6 @@
 # Qualitiative Evaluation of Navigation Models
 
-This repo is fork of the original repo on [navigation models](https://github.com/robodhruv/visualnav-transformer) - GNM, ViNT, NoMaD - built by Dhruv Shah et al. You can find the original readme file [here](./original%20_readme.md). 
+This repo is fork of the original repo on [navigation models](https://github.com/robodhruv/visualnav-transformer) - GNM, ViNT, NoMaD - built by Dhruv Shah et al. You can find the original readme file [here](./original_readme.md). 
 
 
 
